@@ -5,13 +5,9 @@
     box-sizing: border-box;
 }
 
-div {
-    width: 100vw;
-    height: 100vh;
-}
 
 header {
-    margin: 30px 0 144px 40px;
+    margin: 44px 0 144px 76px;
 }
 
 a {
@@ -44,10 +40,55 @@ a {
     margin-top: 8px;
 }
 
-.image-fiel-torcedor {
+.container-left {
     display: inline-block;
+    margin-left: 76px;
 }
 
 .container-right{
     display: inline-block;
+    margin-left: 174px;
+}
+
+h1{
+    Width: 513px;
+    Height: 122px;
+    color: #000;
+    font-size: 100px;
+    font-weight: 900px;
+}
+
+h2 {
+    Width: 513px;
+    Height: 122px;
+    color: #000;
+    font-size: 28px;
+    font-weight: 900px;
+    margin-top: 23px;
+}
+
+p {
+    Width: 513px;
+    Height: 122px;
+    color: #000;
+    font-size: 28px;
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-weight: 900px;
+}
+
+.button-compre-aqui {
+    margin-left: auto;
+    Width: 143px;
+    Height: 54px;
+    color: #fff;
+    background: #000;
+    font-size: 16px;
+    display: flex;
+    cursor: pointer;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    margin-right: 372px;
+    margin-top: 42px;
 }
