@@ -1,0 +1,53 @@
+* {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    width: 100vw;
+    height: 100vh;
+}
+
+header {
+    margin: 30px 0 144px 40px;
+}
+
+a {
+    color: black;
+    margin-right: 32px;
+    Width: 79px;
+    Height: 29px;
+    font-size: 24px;
+    cursor: pointer;
+    font-weight: 400px;
+}
+
+.button-header {
+    font-size: 30px;
+    Height: 41px;
+    width: 115px;
+    border: none;
+    color: white;
+    background: black;
+    font-weight: 700px;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.image-escudo-corinthians {
+    position: relative;
+    left: 1332px;
+    bottom: 898px;
+    width: 112px;
+    margin-top: 8px;
+}
+
+.image-fiel-torcedor {
+    display: inline-block;
+}
+
+.container-right{
+    display: inline-block;
+}
