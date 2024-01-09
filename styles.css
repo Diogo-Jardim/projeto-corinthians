@@ -32,6 +32,13 @@ a {
     cursor: pointer;
 }
 
+.image-logo-corinthians{
+    position:absolute;
+    flex-direction: column-reverse;
+    margin-left: 1600px;
+    margin-top: -236px;
+
+}
 .image-escudo-corinthians {
     position: relative;
     left: 1332px;
@@ -72,23 +79,17 @@ p {
     Height: 122px;
     color: #000;
     font-size: 28px;
-    margin-top: 23px;
-    margin-bottom: 23px;
     font-weight: 900px;
 }
 
 .button-compre-aqui {
-    margin-left: auto;
+    margin-top:122px;
     Width: 143px;
     Height: 54px;
     color: #fff;
     background: #000;
     font-size: 16px;
-    display: flex;
     cursor: pointer;
     border: none;
-    justify-content: center;
-    align-items: center;
-    margin-right: 372px;
-    margin-top: 42px;
+   
 }
